@@ -1,7 +1,7 @@
 package programmers;
 
 // 수박수박수박수박수박수?
-public class Solution15 {
+public class Solution14 {
 	public String solution(int n) {
         String answer = "";
         int count = n / 2;
